@@ -1,0 +1,6 @@
+print("Igresa cuatro números, presiona enter después de escribir la cifra")
+a=int(input("Dame un número: "))
+b=int(input("Dame el segundo: "))
+c=int(input("El tercero: "))
+d=int(input("El cuarto: "))
+print(f"Los números anteriores en oreden inverso son: {d}, {c}, {b} y {a} .")
