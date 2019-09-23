@@ -3,7 +3,7 @@
 ## Semestre 2020-I
 ![Logo FES Aragòm](FESa.jpg)
 
-Aquì ca una **descripcciòn** del *repositorio*
+Aquì va una **descripcciòn** del *repositorio*
 - elemento 1
 - elemento 2
 - elemento 3
