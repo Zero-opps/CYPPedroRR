@@ -1,0 +1,26 @@
+Un algoritmo puede ser descritos de tres maneras:
+
+   -Secuencia (Vonn Newman: mayor atribuciòn memoria de programa de    programa) linea por linea.
+
+ - selecciòn: (decisiòn) 
+           *if
+           *if else           (simple)
+             (elif)          (double bifurcaciòn)
+           *switch            selecciòn mutlitple
+        
+
+- repeticiòn:
+           *for
+           *while
+           *do-while  	
+
+
+
+arvicho: for.py 
+
+Se decicidio dar python por: -preparar para ciencia de datos
+                             -aprender las estructuras de                               programaciòn
+
+algoritmo: java 
+
+hacer tabla de multiplicaciòn.
