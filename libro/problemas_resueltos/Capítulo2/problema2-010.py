@@ -7,7 +7,7 @@ if a>b:
     elif a==c:
         print(f"A y C son iguales, y los mayores con valor{c} {a} .")
     else:
-        print(f"{c} es el mayor")
+        print(f"{c} es el mayor con valor {c} .")
 elif a==b:
     if a>c:
         print(f"A y B son los mayores con valor {a} .")
