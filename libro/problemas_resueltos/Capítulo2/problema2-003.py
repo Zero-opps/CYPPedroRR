@@ -12,7 +12,7 @@ radicando = (b**2)-(4*a*c)
 if radicando > 0:
     X1 = (-b+(radicando)**.5)/(2*a)
     X2 = (-b-(radicando)**.5)/(2*a)
-    print(f"\nLas raíces reales son {X1} , {X2} .")
+    print(f"\nLas raíces reales son X1= {X1} , X2= {X2} .")
 
 else:
     print("\nLas raíces no son reales, el radicando queda negativo en la formula general .")
