@@ -32,3 +32,6 @@ print(f"Nombre: \"{nombre}\" \nEdad:\t{edad}")
 # print y el argumento end
 print("Solo hay 10 tipos de personas las que saben binario y las que no",end="---")
 print("otra linea")
+
+for x in range(0,n,1)
+    print(f"+", end=")
