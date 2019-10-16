@@ -8,5 +8,5 @@ print('---------------------')
 a= int(input("Ingresa un nùmero positivo entero: "))
 
 for x in range(0,a,1):
-    print(f"+",end="")  
+    print(' + ',end="")  
     
