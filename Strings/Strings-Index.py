@@ -7,7 +7,7 @@ print (nombre [-1])
 print (nombre [-4])
 
 #Slicing
-print (nombre [1:3:1])
+print (nombre [1:4:2])
 #Valores por defecto del slicing, [6: :1] "tamaño-cadena" ; [ : : :] "0":"9":"1" 
 print (nombre [6: :1])
 print (nombre [ : : ])

@@ -23,4 +23,4 @@ print(f"Frase: {frase.lower()}")
 # count
 print(f"\n¿Cuántas letras 'o' tiene en total la frase anterior? {frase.count('o')}")
 # center
-print(nombre.center(100,'*'))
+print(nombre.center(110,'*'))
