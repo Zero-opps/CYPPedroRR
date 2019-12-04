@@ -1,6 +1,6 @@
 # Equipo 13
 
-- Pedro Eduardo Ramírez Ramírez
+-  R. R. Pedro E.
 
 ### Programas:
 
